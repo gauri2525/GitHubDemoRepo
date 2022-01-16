@@ -11,6 +11,6 @@ public class LoginPage {
     }
 
     public void LoginPageFunction2(){
-        System.out.println("loginpagefunction2");
+        System.out.println("loginpagefunction3");
     }
 }
